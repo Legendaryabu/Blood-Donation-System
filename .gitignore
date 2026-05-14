@@ -1,0 +1,41 @@
+## Visual Studio Temp Files
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+
+## Roslyn cache directories
+*.ide/
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bbin/
+obj/
+
+## Visual Studio 2015/2017 cache directories
+.vs/
+
+## Others
+Generated\ Files/
+_Chutzpah*
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.pdb
+*.swp
+*.DS_Store
