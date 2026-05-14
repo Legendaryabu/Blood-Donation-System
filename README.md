@@ -29,4 +29,6 @@ A comprehensive .NET-based desktop application designed to streamline the manage
 4. Build and run the solution using Visual Studio.
 
 ---
-Developed as part of my Software Engineering studies at the South Eastern University of Sri Lanka (SEUSL).
+---
+Developed and maintained by **Code_x_abd**. 
+A Software Engineering project focused on efficient data management and system architecture.
