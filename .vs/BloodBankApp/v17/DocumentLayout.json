@@ -1,0 +1,420 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\forms\\donorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\forms\\donorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\winformsapp1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\forms\\aboutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\forms\\aboutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\forms\\donationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\forms\\donationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\migrations\\20251031042306_addusernamestologs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\migrations\\20251031042306_addusernamestologs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\winformsapp1\\forms\\auditlogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\forms\\auditlogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\winformsapp1\\forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\winformsapp1\\forms\\screeningform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\forms\\screeningform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\winformsapp1\\forms\\issueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\forms\\issueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\winformsapp1\\forms\\requestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\forms\\requestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\winformsapp1\\forms\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\forms\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\winformsapp1\\forms\\donationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\forms\\donationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\winformsapp1\\forms\\donorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\forms\\donorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\models\\bloodunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\models\\bloodunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|c:\\users\\abdhullah mohammad\\desktop\\bloodbankapp\\bloodbankapp\\winformsapp1\\migrations\\20251031000544_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B193D6E6-278E-4822-8929-E889F85A8906}|WinFormsApp1\\BloodBankApp.csproj|solutionrelative:winformsapp1\\migrations\\20251031000544_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonorForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\DonorForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Forms\\DonorForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\DonorForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\Forms\\DonorForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:23:32.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "WinFormsApp1\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:08:33.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DonationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\DonationForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Forms\\DonationForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\DonationForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\Forms\\DonationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T01:17:01.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\AboutForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Forms\\AboutForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\AboutForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Forms\\AboutForm.Designer.cs",
+              "ViewState": "AgIAAHQAAAAAmpmZmZkpwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:32:26.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\LoginForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:09:33.736Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\AuditLog.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T04:16:40.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251031042306_AddUsernamesToLogs.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Migrations\\20251031042306_AddUsernamesToLogs.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Migrations\\20251031042306_AddUsernamesToLogs.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Migrations\\20251031042306_AddUsernamesToLogs.cs",
+              "RelativeToolTip": "WinFormsApp1\\Migrations\\20251031042306_AddUsernamesToLogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T04:23:07.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuditLogForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\AuditLogForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Forms\\AuditLogForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\AuditLogForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Forms\\AuditLogForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T04:11:57.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Services\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Services\\CurrentUserService.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Services\\CurrentUserService.cs",
+              "RelativeToolTip": "WinFormsApp1\\Services\\CurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T04:06:00.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\ReportForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Forms\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\ReportForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Forms\\ReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:47:00.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScreeningForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\ScreeningForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Forms\\ScreeningForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\ScreeningForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Forms\\ScreeningForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:35:29.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IssueForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\IssueForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Forms\\IssueForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\IssueForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Forms\\IssueForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:11:22.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RequestForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\RequestForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Forms\\RequestForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\RequestForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Forms\\RequestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T02:50:39.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Services\\AuthService.cs",
+              "RelativeToolTip": "WinFormsApp1\\Services\\AuthService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:08:23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InventoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\InventoryForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Forms\\InventoryForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\InventoryForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Forms\\InventoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T01:38:42.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DonationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\DonationForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Forms\\DonationForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\DonationForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Forms\\DonationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T01:16:22.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20251031000544_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Migrations\\20251031000544_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Migrations\\20251031000544_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Migrations\\20251031000544_InitialCreate.cs",
+              "RelativeToolTip": "WinFormsApp1\\Migrations\\20251031000544_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T00:05:44.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DonorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\DonorForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Forms\\DonorForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Forms\\DonorForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Forms\\DonorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:10:29.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\Donor.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Donor.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\Donor.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Donor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:06:37.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\Request.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:07:38.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\Test.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Test.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:07:01.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\Patient.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:07:25.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\Donation.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Donation.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\Donation.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Donation.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:06:48.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BloodUnit.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\BloodUnit.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\BloodUnit.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\BloodUnit.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\BloodUnit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:07:13.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\BloodBankApp\\BloodBankApp\\WinFormsApp1\\Models\\User.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:06:26.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
